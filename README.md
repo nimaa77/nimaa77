@@ -24,8 +24,3 @@ In my free time, I enjoy:
 ### Get in Touch
 
 Feel free to contact me if you have questions, want to collaborate, or chat about web development.
-
-* [Telegram](https://t.me/nima_arf)
-* [X](https://x.com/nima_arf)
-* [Instagram](https://instagram.com/nima_arf)
-* [LinkedIn](https://www.linkedin.com/in/nima/)
