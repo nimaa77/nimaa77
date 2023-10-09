@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there, I'm Nima 👋
 
-<!--
-**nimaa77/nimaa77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend developer based in Tehran. I'm passionate about coding and love working with various web technologies. Here are some things you should know about me:
 
-Here are some ideas to get you started:
+- 🔭 I work with TypeScript, JavaScript, React, Webpack, ESbuild, Remix, and NextJS (SSR and SSG).
+- 🌱 I'm constantly learning and improving my skills in web development.
+- 💼 I work remotely and always strive to deliver high-quality code and user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+- 💻 I create web applications with a focus on user experience and performance.
+- 📚 I have a YouTube channel where I teach frontend development and React. Check it out [here](https://www.youtube.com/channel/@nima_arf).
+- 🌐 I maintain a website called [react.ir](https://react.ir), where you can find resources and articles related to React development.
+
+### Hobbies and Interests
+
+In my free time, I enjoy:
+
+- 🎿 Skiing on the slopes.
+- 💪 Bodybuilding and staying fit at the gym.
+- 🧘 Meditating to maintain a balanced mindset.
+- 📚 Reading books to expand my knowledge.
+
+### Get in Touch
+
+Feel free to contact me if you have questions, want to collaborate, or chat about web development.
+
+* [Telegram](https://t.me/nima_arf)
+* [X](https://x.com/nima_arf)
+* [Instagram](https://instagram.com/nima_arf)
+* [LinkedIn](https://www.linkedin.com/in/nima/)
